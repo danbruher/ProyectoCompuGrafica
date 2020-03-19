@@ -17,8 +17,5 @@ Descripcion
  14. Trompo
  15. Servilleteros 
  16. Saleros
- 1. Modelos
- 2. modelos 
- 3. 
-
+Marcar como listo cuando ya esten
   
