@@ -17,5 +17,6 @@ Descripcion
  14. Trompo
  15. Servilleteros 
  16. Saleros
- Marcar como listo cuando ya esten
+
+Marcar cuando ya esten listos o creados
   
